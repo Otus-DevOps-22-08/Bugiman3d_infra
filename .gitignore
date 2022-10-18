@@ -1,0 +1,10 @@
+/packer/variables.json
+/packer/packer_key.json
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+.terraform/
+**/packer_key.json
+*.idea
+*.retry
